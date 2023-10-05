@@ -21,3 +21,5 @@ To use the **Food Online Website**,
 **View in Browser:** Open the `index.html` file in a web browser (e.g., Chrome, Firefox, Safari) to view the website locally.
 
 Feel free to use this website template as a starting point for creating an online presence for your restaurant or any similar project.
+
+**Live Demo:** (http://127.0.0.1:5500/index.html)http://127.0.0.1:5500/index.html)
